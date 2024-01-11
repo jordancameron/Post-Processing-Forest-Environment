@@ -90,7 +90,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.134
+    m_Value: 0.229
   xMultiplier:
     m_OverrideState: 0
     m_Value: 1
@@ -222,7 +222,7 @@ MonoBehaviour:
     m_Value: 100
   greenOutBlueIn:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: -1
   blueOutRedIn:
     m_OverrideState: 0
     m_Value: 0
@@ -250,10 +250,10 @@ MonoBehaviour:
     m_Value: 1
   gaussianStart:
     m_OverrideState: 1
-    m_Value: 10
+    m_Value: 20
   gaussianEnd:
     m_OverrideState: 1
-    m_Value: 20
+    m_Value: 100
   gaussianMaxRadius:
     m_OverrideState: 0
     m_Value: 1
